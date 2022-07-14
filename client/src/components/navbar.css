@@ -1,0 +1,13 @@
+.navbar{
+   position: fixed;
+   width: 100%;
+   top: 0;
+}
+
+.hov:hover
+{
+   background: rgb(246, 240, 240);
+   padding: 6px 10px;
+   border-radius: 5px;
+   transition: 1s;
+}
